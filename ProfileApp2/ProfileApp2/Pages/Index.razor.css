@@ -1,0 +1,13 @@
+﻿h2 {
+    font-size: 30px;
+    margin-top: 20px;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
+
+h3 {
+    margin-top: 20px;
+    font-size: 20px;
+    text-decoration: underline;
+    text-decoration-color: purple;
+}
